@@ -1,0 +1,43 @@
+.button {
+    margin: 0;
+    padding: 0;
+    width: 3em;
+    height: 3em;
+    background-color: #008CBA;
+    color: black;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.buttonEdit {
+    margin: 0;
+    padding: 0;
+    width: 3em;
+    height: 3em;
+    background-color: #32a852;
+    color: black;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.input {
+    width: 76.5em;
+    height: 3.5em;
+    padding: 12px 20px;
+    margin: 0 8px;
+    box-sizing: border-box;
+}
+
+.block {
+    margin: 1em;
+}

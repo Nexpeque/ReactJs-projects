@@ -1,0 +1,32 @@
+.listItem {
+    list-style-type: none;
+    margin: 0;
+    padding: 0 10em 0 10em;
+    width: 70;
+    font-weight: 100;
+}
+
+.todoIcon {
+    color: #f44336;
+    display: inline;
+    margin: 1em;
+    cursor: pointer;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.title {
+    font-size: 1.5em;
+    font-weight: 100;
+}
+
+.inline {
+    display: inline;
+}
+
+.icon {
+    font-size: 1em;
+    margin: 0.15em;
+}

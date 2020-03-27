@@ -1,0 +1,12 @@
+.more-games-card {
+    display: inline-block;
+    margin: 0.2em;
+    background-color: #2A2A2A;
+    width: 31em;
+    padding: 0.45em;
+}
+
+.more-games-card h2 {
+    font-weight: 100;
+    font-size: 3.5em;
+}

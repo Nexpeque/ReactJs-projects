@@ -1,0 +1,53 @@
+.footer {
+    color: white;
+    margin: 2em 10em 0 10em;
+}
+
+.footer .footer-title {
+    color: #d9d9d9;
+    font-weight: 100;
+    font-size: 2.5em;
+}
+
+.instagram {
+    font-size: 3em;
+    color: #bfbfbf;
+    padding: 0.15em;
+}
+
+.twitter {
+    font-size: 3em;
+    color: #bfbfbf;
+    padding: 0.15em;
+}
+
+.license {
+    color: #bfbfbf;
+    font-weight: 200;
+    font-size: 0.7em;
+    text-align: justify;
+}
+
+.footer-left .resources h5 {
+    color: #d9d9d9;
+    font-weight: 200;
+    font-size: 1.5em;
+}
+
+.resources {
+    padding: 0 2em 2em 2em;
+    color: #bfbfbf;
+}
+
+.footer .footer-link {
+    text-decoration: none;
+    color: #bfbfbf;
+}
+
+.footer .footer-link:hover {
+    color: #999999;
+}
+
+.title {
+    margin: 1em;
+}

@@ -1,0 +1,61 @@
+li, a, button {
+    font-weight: 400;
+    color: #EDF0F1;
+    text-decoration: none;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5em 5em;
+    z-index: 10;
+    backdrop-filter: blur(3px);
+}
+
+.logo {
+    cursor: pointer;
+    width: 6em;
+}
+
+.nav-links {
+    list-style: none;
+}
+
+.nav-links li {
+    display: inline-block;
+    padding: 0 1em;
+}
+
+.link {
+    transition: all 0.3s ease 0s;
+}
+
+.link:hover {
+    color: #0088A9;
+}
+
+.button {
+    margin: 0 5px;
+    padding: 9px 25px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+.color-blue {
+    background-color: rgba(0, 136, 169, 1);
+}
+
+.color-green {
+    background-color: rgba(0, 136, 80, 1);
+}
+
+.color-blue:hover {
+    background-color: rgba(0, 136, 169, 0.8);
+}
+
+.color-green:hover {
+    background-color: rgba(0, 136, 80, 0.8);
+}

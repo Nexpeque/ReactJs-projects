@@ -1,0 +1,40 @@
+.back {
+    position: absolute;
+    top: 0;
+    background-image: url('https://wallpaperaccess.com/full/9132.jpg');
+    width: 100%;
+    height: 500px;
+    z-index: -1;
+    background-size: cover;
+}
+
+.margin {
+    height: 400px;
+}
+
+.wrapper {
+    margin: 3em;
+}
+
+.info {
+    text-align: center;
+    margin: auto 0 auto 0;
+    padding: 3em;
+}
+
+.infoTitle {
+    margin: 0;
+    font-size: 7em;
+    font-weight: 500;
+}
+
+.infoSubTitle {
+    margin: 0;
+    font-size: 2em;
+    font-weight: 300;
+}
+
+.featured {
+    font-size: 4em;
+    margin: 0;
+}

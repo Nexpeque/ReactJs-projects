@@ -1,0 +1,19 @@
+.home {
+    color: white;
+}
+
+.game-list {
+    margin: 3em 10em 2em 10em;
+}
+
+.game-list .title {
+    font-size: 2em;
+    font-weight: 100;
+    margin: 1em 0 1em 0;
+}
+
+.searchBar {
+    background-color: #fff;
+    width: 100%;
+    height: 3em;
+}

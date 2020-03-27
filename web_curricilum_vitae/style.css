@@ -1,0 +1,94 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.header {
+    background: url(./img/header.jpg);
+    background-size: cover;
+    min-height: 80vh;
+}
+.header:after{
+    background:rgba(0, 0, 0, 0.75);
+}
+.header .navbar .bg-transparent{
+    background-color: transparent;
+}
+.caption{
+    margin-top: 3em;
+}
+.profile-picture{
+    width: 20%;
+    border: 2px solid #fff;
+}
+.first-block{
+    margin-top: 2em;
+}
+.name{
+    font-size: 3.5em;
+    font-weight: 300;
+    color: white;
+}
+.subtitle{
+    font-size: 2em;
+    font-weight: 200;
+    color: black;
+}
+.footer .subtitle{
+    font-size: 2em;
+    font-weight: 200;
+    color: white;
+}
+.btn-green{
+    background-color: greenyellow;
+}
+.bold{
+    font-weight: bold;
+}
+.item{
+    font-size: 1.2em;
+}
+.footer{
+    background-color: #2D2B2A;
+    color: white;
+    padding: 10%;
+}
+.basic-info{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.basic-info .personal-info{
+    font-size: 1.3em;
+}
+
+.basic-info .social-media .linkedin{
+    padding: 1%;
+    font-size: 1.5em;
+    color: #3770AD;
+}
+.basic-info .social-media .gplus{
+    padding: 1%;
+    font-size: 1.5em;
+    color: red;
+}
+.basic-info .social-media .fb{
+    padding: 1%;
+    font-size: 1.5em;
+    color:#4267B2;
+}
+.bg-dev{
+    background: url(./img/developer.jpg);
+    background-size: cover;
+    min-height: 80vh;
+}
+.bg-info{
+    background: url(./img/papers.jpg);
+    background-size: cover;
+    min-height: 80vh;
+}
+.padding-sm{
+    padding-top: 4%;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-bottom: 2%;
+}
